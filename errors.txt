@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 18: expected '=' not found.
+    define typography(what):
+                     ^
+
+File "game/script.rpy", line 32: expected statement.
+    config.say_menu_text_filter = typography
+                                ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Thu Nov 21 21:42:05 2024
