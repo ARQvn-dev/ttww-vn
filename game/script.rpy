@@ -37,17 +37,14 @@ label start:
 
     s "{i}huff...{/i}"
 
-    "It's almost a troubling thought to Sidney that everything she had ever owned had fit within the surface of the dining table."
+    "It's almost a troubling thought to Sidney that everything she had ever owned had fit within the surface of their dining table."
     "Yet, {w=0.5}relief is the only thing that watches over at the moment."
 
     s "{i}It's done. {w=0.2}And now this is where I'll be from now on.{/i}"
 
-    "As implusive as she was, Sidney had to get used to this whole ordeal in a much more hurried pace than she had hoped for."
-    "The girl could never know if she was shaken up by the urgency of everything."
-
     "..."
 
-    "Home was set down between the expanse of the faded brown woods and the dying spark of an old suburbia."
+    "This house was set down between the expanse of the faded brown woods and the dying spark of an old suburbia."
     "Not quite unreachable from the stretch of the the city, and all the more untouched over the years of age old refusal to leave the property behind."
     "A couple years ago the town completed the {i}Old Fern Parklands project{/i} that flowed tangles of uprooted concrete paths in the hopes for a more walkable forest experience."
     "A wonderful way to bring life to a dense landscape unfooted by man."
